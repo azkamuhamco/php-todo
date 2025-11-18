@@ -1,6 +1,5 @@
 # Docker Compose untuk PHP Todo App
 # File ini ngatur semua container yang dibutuhkan aplikasi
-version: '3.8'
 
 services:
   # 🌐 Nginx - Web Server
